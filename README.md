@@ -12,3 +12,5 @@ python setup.py install
 # or copy the so/pyd file from the build/lib* folder into the top-level dir.
 python main.py
 ```
+
+If it doesn't work you may have a corrupted Python environment. Try reinstalling ;)
