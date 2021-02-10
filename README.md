@@ -7,9 +7,8 @@ Please make your code be a bit more than just `print` statements. If you're feel
 
 ```bash
 python setup.py build
-# either
-python setup.py install
-# or copy the so/pyd file from the build/lib* folder into the top-level dir.
+# ↓ if this doesn't work you can also copy the file
+ln -sr build/lib*/* .
 python main.py
 ```
 
