@@ -8,5 +8,6 @@ import kevin
 print("Kevin's Items")
 kevin.printfavs()
 
-# Items for Oleks
+#Items for Oleks
 print("Oleks's Items")
+print("Rust")
