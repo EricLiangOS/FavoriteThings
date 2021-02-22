@@ -11,3 +11,4 @@ kevin.printfavs()
 #Items for Oleks
 print("Oleks's Items")
 print("Rust")
+print("Another rust")
