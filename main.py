@@ -1,4 +1,4 @@
-# Items for Matt
+#Items for Matt
 import mattf
 print("Matt's Items")
 mattf.printfavs()
@@ -8,5 +8,7 @@ import kevin
 print("Kevin's Items")
 kevin.printfavs()
 
-# Items for Oleks
+#Items for Oleks
+import oleks
 print("Oleks's Items")
+oleks.printfavs(0)
