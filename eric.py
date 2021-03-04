@@ -42,7 +42,7 @@ def mergesort(L,R):
 	for i in range(R-L+1):
 		favs[i+L] = words[i]
 
-def favorite_things():
+def printfavs():
 	mergesort(0,len(favs)-1)
 
 	for item in favs:
