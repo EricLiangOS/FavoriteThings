@@ -1,3 +1,8 @@
+#Items for Eric
+import eric
+print("Eric's Items")
+eric.printfavs()
+
 #Items for Matt
 import mattf
 print("Matt's Items")
@@ -17,3 +22,4 @@ oleks.printfavs(0)
 import matan
 print("Matan's Items")
 matan.printfavs()
+
